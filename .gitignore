@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.dll
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+.zed/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker/artifacts/
