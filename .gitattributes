@@ -1,0 +1,17 @@
+# Normalize line endings
+* text=auto
+
+# Explicit binary types
+*.so binary
+*.dll binary
+*.dylib binary
+*.a binary
+*.png binary
+*.jpg binary
+
+# Markdown and source code
+*.md text
+*.c text
+*.h text
+Makefile text
+CMakeLists.txt text
